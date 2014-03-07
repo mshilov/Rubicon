@@ -15,27 +15,22 @@ This will be a repo for variety of projects that I want to make public..
 
 
 
-
-
-
-
-
-  MMMMMMMM               MMMMMMMM
-  M:::::::M             M:::::::M
-  M::::::::M           M::::::::M
-  M:::::::::M         M:::::::::M
-  M::::::::::M       M::::::::::M  aaaaaaaaaaaaa  rrrrr   rrrrrrrrrxxxxxxx      xxxxxxx
-  M:::::::::::M     M:::::::::::M  a::::::::::::a r::::rrr:::::::::rx:::::x    x:::::x
-  M:::::::M::::M   M::::M:::::::M  aaaaaaaaa:::::ar:::::::::::::::::rx:::::x  x:::::x
-  M::::::M M::::M M::::M M::::::M           a::::arr::::::rrrrr::::::rx:::::xx:::::x
-  M::::::M  M::::M::::M  M::::::M    aaaaaaa:::::a r:::::r     r:::::r x::::::::::x
-  M::::::M   M:::::::M   M::::::M  aa::::::::::::a r:::::r     rrrrrrr  x::::::::x
-  M::::::M    M:::::M    M::::::M a::::aaaa::::::a r:::::r              x::::::::x
-  M::::::M     MMMMM     M::::::Ma::::a    a:::::a r:::::r             x::::::::::x
-  M::::::M               M::::::Ma::::a    a:::::a r:::::r            x:::::xx:::::x
-  M::::::M               M::::::Ma:::::aaaa::::::a r:::::r           x:::::x  x:::::x
-  M::::::M               M::::::M a::::::::::aa:::ar:::::r          x:::::x    x:::::x
-  MMMMMMMM               MMMMMMMM  aaaaaaaaaa  aaaarrrrrrr         xxxxxxx      xxxxxxx
+    MMMMMMMM               MMMMMMMM
+    M:::::::M             M:::::::M
+    M::::::::M           M::::::::M
+    M:::::::::M         M:::::::::M
+    M::::::::::M       M::::::::::M  aaaaaaaaaaaaa  rrrrr   rrrrrrrrrxxxxxxx      xxxxxxx
+    M:::::::::::M     M:::::::::::M  a::::::::::::a r::::rrr:::::::::rx:::::x    x:::::x
+    M:::::::M::::M   M::::M:::::::M  aaaaaaaaa:::::ar:::::::::::::::::rx:::::x  x:::::x
+    M::::::M M::::M M::::M M::::::M           a::::arr::::::rrrrr::::::rx:::::xx:::::x
+    M::::::M  M::::M::::M  M::::::M    aaaaaaa:::::a r:::::r     r:::::r x::::::::::x
+    M::::::M   M:::::::M   M::::::M  aa::::::::::::a r:::::r     rrrrrrr  x::::::::x
+    M::::::M    M:::::M    M::::::M a::::aaaa::::::a r:::::r              x::::::::x
+    M::::::M     MMMMM     M::::::Ma::::a    a:::::a r:::::r             x::::::::::x
+    M::::::M               M::::::Ma::::a    a:::::a r:::::r            x:::::xx:::::x
+    M::::::M               M::::::Ma:::::aaaa::::::a r:::::r           x:::::x  x:::::x
+    M::::::M               M::::::M a::::::::::aa:::ar:::::r          x:::::x    x:::::x
+    MMMMMMMM               MMMMMMMM  aaaaaaaaaa  aaaarrrrrrr         xxxxxxx      xxxxxxx
 
 
 
