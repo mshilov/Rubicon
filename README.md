@@ -5,7 +5,7 @@ General GIT repo
 
 This will be a repo for variety of projects that I want to make public..
 
-  M MMMMMMM               MMMMMMMM
+  MMMMMMMM               MMMMMMMM
   M:::::::M             M:::::::M
   M::::::::M           M::::::::M
   M:::::::::M         M:::::::::M
