@@ -1,4 +1,4 @@
-This class was developed as an attempt to get a better grip on RSS feeds which usse additional nodes to establish a range of dates during which event should be displayed.
+This class was developed as an attempt to get a better grip on RSS feeds which use additional nodes to establish a range of dates during which event should be displayed.
 Ferrum College was one of institutions needing this setup.
 
 This package contains:
